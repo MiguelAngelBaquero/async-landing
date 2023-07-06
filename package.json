@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelBaquero/async-landing.git"
+  },
+  "keywords": [],
+  "author": "Miguel Angel Baquero <migue_uio93@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelAngelBaquero/async-landing/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelBaquero/async-landing#readme"
+}
